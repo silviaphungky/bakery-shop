@@ -5,7 +5,7 @@ There are 3 sections in this project:
 3. Login form
 
 pending development:
-1. timeout for clear session every 5 second > then logout admin from the dashboard
+1. timeout for clear session every 5 second > then logout admin from the dashboard based on session data
 2. set routing using react-router-dom
   a. privateroute for order form and order history
 
