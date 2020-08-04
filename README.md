@@ -17,5 +17,5 @@ pending development:
 
 for run this project:
 1. run `git clone https://github.com/silviaphungky/bakery-shop` in terminal
-2. run `mpm install`
-3. run npm start
+2. run `npm install`
+3. run `npm start`
