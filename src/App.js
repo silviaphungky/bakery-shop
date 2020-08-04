@@ -8,9 +8,9 @@ function App() {
   return (
     <div>
       {/*note: should using routes, should settimeout for clear session*/}
-      <Login /> 
       <OrderForm />
       <OrderInfo />
+      <Login /> 
     </div>
   );
 }
